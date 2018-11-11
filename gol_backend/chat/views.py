@@ -1,5 +1,8 @@
 from django.shortcuts import render
 from django.utils.safestring import mark_safe
+from .models import Device, Event
+from rest_framework.decorators import api_view
+from django.http import JsonResponse
 import json
 
 # Create your views here.
@@ -13,3 +16,15 @@ import json
 
 def room(request):
     return render(request, 'chat/room.html', {})
+
+
+@api_view(['GET'])
+def get_devices(request):
+
+    return JsonResponse(list(Device.objects.all().values()), safe = False)
+
+@api_view(['GET'])
+def get_events(request):
+
+    return JsonResponse(list(Event.objects.all().values()), safe = False)
+
