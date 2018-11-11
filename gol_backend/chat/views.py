@@ -28,3 +28,9 @@ def get_events(request):
 
     return JsonResponse(list(Event.objects.all().values()), safe = False)
 
+@api_view(['POST'])
+def delete_events(request):
+
+    Event.objects.all().delete()
+    return JsonResponse({'success' : 'True'}, safe = False)
+
