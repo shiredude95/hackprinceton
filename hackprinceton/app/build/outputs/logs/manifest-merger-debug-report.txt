@@ -1,0 +1,204 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml:2:1-31:12
+MERGED from [com.android.databinding:adapters:3.2.1] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/adapters-3.2.1.aar/5f692c3c616f8e1de43cec4e100f3241/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.2.1] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/library-3.2.1.aar/8daa6d5e2daba83c6b4e4bf4b9be6f6b/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/bc5d130abe0e0bb1ae5f57e0f74f754b/AndroidManifest.xml:17:1-30:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/dc2c1e08a47372115a1e4ca24f1b4c9a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4e251bca11ff3df214999f1d3c66b663/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/4d1b2190602a8ad47160f4d5abcc9b47/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/05123655c541694c28e37e8d564e59bc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/459681177fcb83ab8ed8ef55816af396/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/792ef939128beca2b181f848cc72db02/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:9.0.0-rc1] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/butterknife-9.0.0-rc1.aar/d3eb46e84392e01a505b19691193b67b/AndroidManifest.xml:2:1-7:12
+MERGED from [com.jakewharton:butterknife-runtime:9.0.0-rc1] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/butterknife-runtime-9.0.0-rc1.aar/295bf1a83014c46d004fb165761c27f7/AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/42a8224b6d4f451c4833399810c3cfb9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/45d6a3737ef4693d74088162e4c59a1a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/ae5413fe54983df9c2e18da28d940130/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/65de5d731fcb84d1e02c822b434d9e0c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/d708f3a50c894ea57ed10aa4ba649a8d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/28aade0a6ea0820125ac1dbc9b8cfc44/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/1370279599a8852d475f1f03b5e51c36/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/d0f9ea7d9aafb45a444d4f6cf9275012/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/ccc0560781de995f3917915a03b8e29d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3eb72c799805e9dcf8e24333e9d97949/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2dc4d3107e01accd9145057154fa0803/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8aa5ead081622debdd8a718fff3a85a9/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/7c88fbcf62593dc4d29e21a8bd7c72da/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8edfecf99dc46af3675e13d63e9dc841/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/359a22862882c3c56df9dbc5aadbcf6d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/8d455ca48a8f070aa95352c76ddd414e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2ddec98eeebb1d837c2b98f28a5d24b7/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/412f9f47fc07f687316d1e0d34e8c19a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/e12c695ab5640ca630d2a0a72038536b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/eda12d102f67deb568816ec241c035ea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/703b079b700f60fa1a38d045493a723a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/498315570e1fad9061ed8b35a7709ed9/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml:4:5-39
+		INJECTED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml
+		ADDED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml
+		ADDED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml:8:5-29:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/bc5d130abe0e0bb1ae5f57e0f74f754b/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/bc5d130abe0e0bb1ae5f57e0f74f754b/AndroidManifest.xml:22:5-28:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3eb72c799805e9dcf8e24333e9d97949/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3eb72c799805e9dcf8e24333e9d97949/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8aa5ead081622debdd8a718fff3a85a9/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8aa5ead081622debdd8a718fff3a85a9/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2ddec98eeebb1d837c2b98f28a5d24b7/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2ddec98eeebb1d837c2b98f28a5d24b7/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3eb72c799805e9dcf8e24333e9d97949/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml:11:9-41
+	tools:ignore
+		ADDED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml:16:9-48
+	android:roundIcon
+		ADDED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml:14:9-40
+	android:usesCleartextTraffic
+		ADDED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml:15:9-44
+activity#quartifex.com.gameoflife.MainActivity
+ADDED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml:17:9-22:20
+	android:name
+		ADDED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml:17:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT
+ADDED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml:20:17-76
+	android:name
+		ADDED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml:20:27-73
+activity#quartifex.com.gameoflife.gridview.ui.GridActivity
+ADDED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml:23:9-28:20
+	android:name
+		ADDED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml:23:19-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml:24:13-27:29
+category#android.intent.category.LAUNCHER
+ADDED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml:26:27-74
+uses-sdk
+INJECTED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml
+INJECTED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:3.2.1] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/adapters-3.2.1.aar/5f692c3c616f8e1de43cec4e100f3241/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.2.1] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/adapters-3.2.1.aar/5f692c3c616f8e1de43cec4e100f3241/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.2.1] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/library-3.2.1.aar/8daa6d5e2daba83c6b4e4bf4b9be6f6b/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.2.1] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/library-3.2.1.aar/8daa6d5e2daba83c6b4e4bf4b9be6f6b/AndroidManifest.xml:22:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/bc5d130abe0e0bb1ae5f57e0f74f754b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.1] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/bc5d130abe0e0bb1ae5f57e0f74f754b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/dc2c1e08a47372115a1e4ca24f1b4c9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/dc2c1e08a47372115a1e4ca24f1b4c9a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4e251bca11ff3df214999f1d3c66b663/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/4e251bca11ff3df214999f1d3c66b663/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/4d1b2190602a8ad47160f4d5abcc9b47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/4d1b2190602a8ad47160f4d5abcc9b47/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/05123655c541694c28e37e8d564e59bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/05123655c541694c28e37e8d564e59bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/459681177fcb83ab8ed8ef55816af396/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/459681177fcb83ab8ed8ef55816af396/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/792ef939128beca2b181f848cc72db02/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/792ef939128beca2b181f848cc72db02/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:9.0.0-rc1] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/butterknife-9.0.0-rc1.aar/d3eb46e84392e01a505b19691193b67b/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife:9.0.0-rc1] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/butterknife-9.0.0-rc1.aar/d3eb46e84392e01a505b19691193b67b/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife-runtime:9.0.0-rc1] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/butterknife-runtime-9.0.0-rc1.aar/295bf1a83014c46d004fb165761c27f7/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife-runtime:9.0.0-rc1] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/butterknife-runtime-9.0.0-rc1.aar/295bf1a83014c46d004fb165761c27f7/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/42a8224b6d4f451c4833399810c3cfb9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/42a8224b6d4f451c4833399810c3cfb9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/45d6a3737ef4693d74088162e4c59a1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/45d6a3737ef4693d74088162e4c59a1a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/ae5413fe54983df9c2e18da28d940130/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/ae5413fe54983df9c2e18da28d940130/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/65de5d731fcb84d1e02c822b434d9e0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/65de5d731fcb84d1e02c822b434d9e0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/d708f3a50c894ea57ed10aa4ba649a8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/d708f3a50c894ea57ed10aa4ba649a8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/28aade0a6ea0820125ac1dbc9b8cfc44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/28aade0a6ea0820125ac1dbc9b8cfc44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/1370279599a8852d475f1f03b5e51c36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/1370279599a8852d475f1f03b5e51c36/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/d0f9ea7d9aafb45a444d4f6cf9275012/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/d0f9ea7d9aafb45a444d4f6cf9275012/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/ccc0560781de995f3917915a03b8e29d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/ccc0560781de995f3917915a03b8e29d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3eb72c799805e9dcf8e24333e9d97949/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/3eb72c799805e9dcf8e24333e9d97949/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2dc4d3107e01accd9145057154fa0803/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/2dc4d3107e01accd9145057154fa0803/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8aa5ead081622debdd8a718fff3a85a9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8aa5ead081622debdd8a718fff3a85a9/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/7c88fbcf62593dc4d29e21a8bd7c72da/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/7c88fbcf62593dc4d29e21a8bd7c72da/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8edfecf99dc46af3675e13d63e9dc841/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8edfecf99dc46af3675e13d63e9dc841/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/359a22862882c3c56df9dbc5aadbcf6d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/359a22862882c3c56df9dbc5aadbcf6d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/8d455ca48a8f070aa95352c76ddd414e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/8d455ca48a8f070aa95352c76ddd414e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2ddec98eeebb1d837c2b98f28a5d24b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/2ddec98eeebb1d837c2b98f28a5d24b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/412f9f47fc07f687316d1e0d34e8c19a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/412f9f47fc07f687316d1e0d34e8c19a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/e12c695ab5640ca630d2a0a72038536b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/e12c695ab5640ca630d2a0a72038536b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/eda12d102f67deb568816ec241c035ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/eda12d102f67deb568816ec241c035ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/703b079b700f60fa1a38d045493a723a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/703b079b700f60fa1a38d045493a723a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/498315570e1fad9061ed8b35a7709ed9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/498315570e1fad9061ed8b35a7709ed9/AndroidManifest.xml:20:5-44
+INJECTED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml
+INJECTED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml
+		ADDED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml
+		ADDED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml
+		INJECTED from /home/shiredude95/HomeBox/AndroidRelated/androidgameoflife/hackprinceton/app/src/main/AndroidManifest.xml
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/bc5d130abe0e0bb1ae5f57e0f74f754b/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/bc5d130abe0e0bb1ae5f57e0f74f754b/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/bc5d130abe0e0bb1ae5f57e0f74f754b/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/bc5d130abe0e0bb1ae5f57e0f74f754b/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.1] /home/shiredude95/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/bc5d130abe0e0bb1ae5f57e0f74f754b/AndroidManifest.xml:24:13-83
